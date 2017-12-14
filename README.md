@@ -1,1 +1,1 @@
-# VS-Code-Configuration-for-Node-JS-debugging
+# VS Code Configuration for Node JS debugging
